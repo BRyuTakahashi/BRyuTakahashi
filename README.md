@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 --!>
 <h1 align="center">Hello, I'm Bruno Ryu</h1>
 <h3 align="center">Student for SPTech on Systems analysis and development.</h3>
-<img src="https://cdn.discordapp.com/attachments/1001707384831483905/1012923023675904000/study.gif" height="150" align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcriticalindex.net%2Fmonday-music-mayhem-beneath-the-mask-persona-5-ost-april-9-2018-bf40faadfb53&psig=AOvVaw1XKE_qt_TbtcjI04StfY0X&ust=1672101567660000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiYt-iFlvwCFQAAAAAdAAAAABAZ" height="150" align="right">
 <p>
 - 📚 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a>.<br>
 - 🌱 I want to learn Swift language.<br>
