@@ -1,5 +1,5 @@
 <!--### Hi there 👋
-**YuzoTaka/YuzoTaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BRyuTakahashi/BRyuTakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,13 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-<h1 align="center">Hi, I'm Yuzo Takahashi</h1>
+<h1 align="center">Hi, I'm Bruno Ryu</h1>
 <h3 align="center">Student for SPTech on Systems analysis and development.</h3>
 <img src="https://cdn.discordapp.com/attachments/1001707384831483905/1012923023675904000/study.gif" height="150" align="right">
 <p>
 - 📚 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a>.<br>
-- 💻 I'm currently learning C# and Java.<br>
-- 🖥 I'm currently working with C#.<br>
 - 🐈 I like cats.
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
