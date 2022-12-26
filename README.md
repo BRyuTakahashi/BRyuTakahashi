@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.discordapp.com/attachments/1001707384831483905/1012923023675904000/study.gif" height="150" align="right">
 <p>
 - 📚 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a>.<br>
+- 🌱 I want to learn Swift language.<br>
+- 😍 UX/UI is my currently passion.<br>
 - 🐈 I like cats.
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
