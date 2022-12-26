@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <br>
 <div>
   <a href="https://github.com/YuzoTaka">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YuzoTaka&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BRyuTakahashi&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzoTaka&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRyuTakahashi&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF"/>
 </div>
 <h3 align="left">Connect with me:</h3>
 <div>
