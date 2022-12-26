@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --!>
-<h1 align="center">Hi, I'm Bruno Ryu</h1>
+<h1 align="center">Hello, I'm Bruno Ryu</h1>
 <h3 align="center">Student for SPTech on Systems analysis and development.</h3>
 <img src="https://cdn.discordapp.com/attachments/1001707384831483905/1012923023675904000/study.gif" height="150" align="right">
 <p>
@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 </div>
 <h3 align="left">Connect with me:</h3>
 <div>
-  <a href="https://www.instagram.com/yuzo_taka/" target="_blank">
+  <a href="https://www.instagram.com/bruno_ryu0805/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/yuzo-takahashi-257098236/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-takahashi-97b0b01b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
