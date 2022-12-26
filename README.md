@@ -52,4 +52,7 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@brunoryu0805" target="_blank">
     <img src="https://img.shields.io/badge/Medium-F2A71B?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.behance.net/brunoryu1" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-056CF2?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
+  </a>
 </div>
