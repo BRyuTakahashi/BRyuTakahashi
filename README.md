@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😍 UX/UI is my currently passion.<br>
 - 🐈 I like cats.
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcriticalindex.net%2Fmonday-music-mayhem-beneath-the-mask-persona-5-ost-april-9-2018-bf40faadfb53&psig=AOvVaw1XKE_qt_TbtcjI04StfY0X&ust=1672101567660000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiYt-iFlvwCFQAAAAAdAAAAABAZ">
 <h3 align="left">📚 Studying:</h3>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
