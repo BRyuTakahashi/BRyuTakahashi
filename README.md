@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 😍 UX/UI is my currently passion.<br>
 - 🐈 I like cats.
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="left">📚 Studying:</h3>
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
