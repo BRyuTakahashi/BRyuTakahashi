@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <img src="https://miro.medium.com/max/720/1*smUPzyAYoRWsCq1A1O_Yjg.gif" height="150" align="right">
 <p>
 - 📚 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a>.<br>
+- 🎓 I’m former in Design.<br>
 - 🌱 I want to learn Swift language.<br>
 - 😍 UX/UI is my currently passion.<br>
 - 🐈 I like cats.
