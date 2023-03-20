@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p>
 - 📚 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a>.<br>
 - 🎓 I’m former in Design.<br>
-- 🌱 I want to learn Swift language.<br>
 - 😍 UX/UI is my currently passion.<br>
 - 🐈 I like cats.
 </p>
@@ -25,9 +24,9 @@ Here are some ideas to get you started:
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Swift-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
 </div>
 <br>
 
