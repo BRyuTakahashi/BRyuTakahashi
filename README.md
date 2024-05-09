@@ -20,7 +20,7 @@
 
 <br>
 <div>
-  <a href="https://github.com/BRyuTakahashi">
+  <a href="https://github.com/BrunoRyuTakahashi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoRyuTakahashi&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true"/>
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRyuTakahashi&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF"/>
