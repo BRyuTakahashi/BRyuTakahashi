@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello, I'm Bruno Ryu</h1>
 <h3 align="center">Open to Work.</h3>
-<img src="https://miro.medium.com/max/720/1*smUPzyAYoRWsCq1A1O_Yjg.gif" height="150" align="right">
 <p>
 - 🎓 I have a degree in Design and Analysis and Systems Development.<br>
 - 😍 Front-End Development is my passion.<br>
