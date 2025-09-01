@@ -22,9 +22,10 @@
 
 ### 🚀 Main Projects
 
-- [Nome do Projeto 1](https://github.com/BRyuTakahashi/nome-do-projeto-1)
-- [Nome do Projeto 2](https://github.com/BRyuTakahashi/nome-do-projeto-2)
-- [Nome do Projeto 3](https://github.com/BRyuTakahashi/nome-do-projeto-3)
+- [Encantos Literários](https://github.com/BRyuTakahashi/encanto-literarios)
+- [Numbers](https://github.com/BRyuTakahashi/numbers)
+- [Mundo Pet](https://github.com/BRyuTakahashi/mundo-pet)
+- [Esports](https://github.com/BRyuTakahashi/nlw)
 
 ---
 
