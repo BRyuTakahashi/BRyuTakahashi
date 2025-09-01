@@ -9,7 +9,7 @@
   <h3>Aberto a trabalho.</h3>
 </div>
 
-Sou um desenvolvedor apaixonado por front-end, com formação em Análise e Desenvolvimento de Sistemas. Meu foco é criar interfaces intuitivas e funcionais. Além de programar, sou fã de gatos!
+Sou um desenvolvedor apaixonado por full-stack, com formação em Análise e Desenvolvimento de Sistemas. Meu foco é criar interfaces intuitivas e funcionais. Além de programar, sou fã de gatos!
 
 
 ---
