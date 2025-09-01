@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="URL_DO_SEU_REPOSITORIO/README.md">
+  <a href="https://github.com/BRyuTakahashi/BRyuTakahashi/blob/main/README.md">
     <img src="https://img.shields.io/badge/Português-1572B6?style=for-the-badge&logo=i18next&logoColor=white" alt="Versão em Português">
   </a>
 </p>
