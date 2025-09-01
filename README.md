@@ -1,16 +1,20 @@
+<p align="center">
+  <a href="URL_DO_SEU_REPOSITORIO/README-en.md">
+    <img src="https://img.shields.io/badge/English-1572B6?style=for-the-badge&logo=i18next&logoColor=white" alt="Versão em Inglês">
+  </a>
+</p>
+
 <div align="center">
-  <h1>Hello, I'm Bruno Ryu</h1>
-  <h3>Open to Work.</h3>
+  <h1>Olá, eu sou Bruno Ryu👋</h1>
+  <h3>Aberto a trabalho.</h3>
 </div>
 
-- 🎓 I have a degree in Design and Analysis and Systems Development.
-- 😍 Front-End Development is my passion.
-- 🐈 I like cats.
+Sou um desenvolvedor apaixonado por front-end, com formação em Análise e Desenvolvimento de Sistemas. Meu foco é criar interfaces intuitivas e funcionais. Além de programar, sou fã de gatos!
 
 
 ---
 
-### ⚙️ Skills:
+### ⚙️ Habilidades:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
@@ -20,47 +24,38 @@
 
 ---
 
-### 🚀 Main Projects
+### 🚀 Projetos em destaque:
 
-- [Encantos Literários](https://github.com/BRyuTakahashi/encanto-literarios)
-- [Numbers](https://github.com/BRyuTakahashi/numbers)
-- [Mundo Pet](https://github.com/BRyuTakahashi/mundo-pet)
-- [Esports](https://github.com/BRyuTakahashi/nlw)
+- **[Encantos Literários](https://github.com/BRyuTakahashi/encanto-literarios)**: Um club de assinaturas usando animações CSS
+- **[Numbers](https://github.com/BRyuTakahashi/numbers)**: Um gerador de números aleatórios usando Array Functions do JS
+- **[Mundo Pet](https://github.com/BRyuTakahashi/mundo-pet)**: Um serviço de agendamento para um petshop usando JSON para armazenamento de dados
+- **[Esports](https://github.com/BRyuTakahashi/nlw)**: Um sistema de recomendações de itens para jogos usando Gemini para gerar os dados
 
 ---
 
-### 📚 Studying:
+### 📚 Estudando e Interesses:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Typescript-377CC8?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/NODE.JS-587B38?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/GITHUB-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-### Interest in:
-<p align="left">
-    <img src="https://img.shields.io/badge/Angular-DE002D?style=for-the-badge&logo=angular&logoColor=black" alt="Angular">
+  <img src="https://img.shields.io/badge/Angular-DE002D?style=for-the-badge&logo=angular&logoColor=black" alt="Angular">
     <img src="https://img.shields.io/badge/vue.js-42B884?style=for-the-badge&logo=vue.js&logoColor=35496e" alt="Vue.js">
 </p>
 
 ---
 
-<br>
-<div>
-  <a href="https://github.com/BRyuTakahashi">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BRyuTakahashi&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRyuTakahashi&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF" alt="Linguagens Mais Usadas"/>
-  </a>
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BRyuTakahashi&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRyuTakahashi&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF" alt="Linguagens Mais Usadas"/>
 </div>
 
 ---
 
-### Connect with me:
+### 🤝 Conecte comigo:
 
-<div>
   <a href="https://www.instagram.com/bruno_ryu0805/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -73,4 +68,3 @@
   <a href="https://www.behance.net/brunoryu1" target="_blank">
     <img src="https://img.shields.io/badge/Behance-056CF2?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
-</div>
