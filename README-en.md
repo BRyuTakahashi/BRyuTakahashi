@@ -6,7 +6,6 @@
 
 <div align="center">
   <h1>Hello, I'm Bruno Ryu👋</h1>
-  <h3>Open to work.</h3>
 </div>
 
 I'm a passionate full-stack developer with a degree in Design and Systems Analysis. My focus is on creating intuitive and functional interfaces. Besides coding, I'm a cat lover!
