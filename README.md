@@ -60,7 +60,7 @@ Desenvolvedor Full Stack Júnior, especializado na criação de interfaces intui
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BRyuTakahashi&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRyuTakahashi&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF" alt="Linguagens Mais Usadas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRyuTakahashi&layout=compact&theme=dracula&title_color=0AFEFF" alt="Linguagens Mais Usadas"/>
 </div>
 
 ---
