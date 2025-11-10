@@ -25,7 +25,7 @@ I'm a passionate full-stack developer with a degree in Design and Systems Analys
 
 ### 🚀 Featured Projects:
 
-- **[Encantos Literários](https://github.com/BRyuTakahashi/encanto-literarios)**: A subscription club using CSS animations.
+- **[ToDo](https://github.com/BRyuTakahashi/todo)**: A .
 - **[Numbers](https://github.com/BRyuTakahashi/numbers)**: A random number generator using JS Array Functions.
 - **[Mundo Pet](https://github.com/BRyuTakahashi/mundo-pet)**: A pet shop appointment scheduling service using JSON for data storage.
 - **[Esports](https://github.com/BRyuTakahashi/nlw)**: An item recommendation system for games using Gemini to generate data.
