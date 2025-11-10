@@ -27,7 +27,7 @@ Desenvolvedor Full Stack Júnior, especializado na criação de interfaces intui
 
 ### 🚀 Projetos em destaque:
 
-- **[Encantos Literários](https://github.com/BRyuTakahashi/encanto-literarios)**: Um club de assinaturas usando animações CSS
+- **[To Do List](https://github.com/BRyuTakahashi/encanto-literarios)**: Projeto TS usando os principais Hooks para gerenciar os estados e armazenamento das tarefas
 - **[Numbers](https://github.com/BRyuTakahashi/numbers)**: Um gerador de números aleatórios usando Array Functions do JS
 - **[Mundo Pet](https://github.com/BRyuTakahashi/mundo-pet)**: Um serviço de agendamento para um petshop usando JSON para armazenamento de dados
 - **[Esports](https://github.com/BRyuTakahashi/nlw)**: Um sistema de recomendações de itens para jogos usando Gemini para gerar os dados
