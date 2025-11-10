@@ -27,7 +27,7 @@ Desenvolvedor Full Stack Júnior, especializado na criação de interfaces intui
 
 ### 🚀 Projetos em destaque:
 
-- **[ToDo](https://github.com/BRyuTakahashi/todo)**: Projeto TS usando os principais Hooks para gerenciar os estados e armazenamento das tarefas
+- **[ToDo](https://github.com/BRyuTakahashi/todo)**: Projeto de um To Do List usando TS e os principais Hooks para gerenciar os estados e armazenamento das tarefas
 - **[Numbers](https://github.com/BRyuTakahashi/numbers)**: Um gerador de números aleatórios usando Array Functions do JS
 - **[Mundo Pet](https://github.com/BRyuTakahashi/mundo-pet)**: Um serviço de agendamento para um petshop usando JSON para armazenamento de dados
 - **[Esports](https://github.com/BRyuTakahashi/nlw)**: Um sistema de recomendações de itens para jogos usando Gemini para gerar os dados
