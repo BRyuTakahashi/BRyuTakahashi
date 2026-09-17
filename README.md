@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/BRyuTakahashi/BRyuTakahashi/blob/main/README-en.md">
     <img src="https://img.shields.io/badge/English-1572B6?style=for-the-badge&logo=i18next&logoColor=white" alt="Versão em Inglês">
   </a>
-</p>
+</p> -->
 
 <div align="center">
   <h1>Olá, eu sou Bruno Ryu 👋</h1>
